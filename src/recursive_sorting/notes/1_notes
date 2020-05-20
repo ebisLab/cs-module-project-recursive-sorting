@@ -1,0 +1,11 @@
+merge sort ---> recursive sorting (method that calls itself)
+
+divide and conquer algorithm
+    breaks problem down to smaller set in half
+
+very efficient for large data sets
+
+
+
+use while loops ---> when you dont know the size of your input
+you can set a condiion to exciting a loop
